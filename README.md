@@ -1,6 +1,6 @@
 🚀 How to Run Locally
 1. Clone the repository
-git clone https://github.com/Geethika_13/Fast-Rag.git cd [Fast-Rag]
+git clone https://github.com/ChiguruMythri/Fast-Rag.git cd [Fast-Rag]
 
 2. Install Dependencies
 pip install -r requirements.txt
